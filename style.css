@@ -125,9 +125,51 @@ justify-content: center;
     width: 800px;
     padding: 0px;
     margin-bottom: 0px;
+    color: #1F2937;
 }
 .text h4 {
     margin-left: 830px;
     font-size: 18px;
     font-family: inherit;
+    color: #1F2937;
+}
+.fotter{
+    background-color: #fff;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 30px;
+}
+.fottercontainer{
+    display: flex;
+    background-color: #3882f6;
+    width: 900px;
+    border-radius: 15px;
+    align-items: end;
+    justify-content: space-around;
+}
+.footertext{
+    color: #fff;
+    padding: 20px;
+}
+.footertext h4{
+    padding: 0px;
+    margin-bottom: 0px;
+    font-size: 18px;
+}
+.footertext p{
+margin-top: 0px;
+    font-size: 18px;
+}
+.fottersingup{
+    color: #fff;
+}
+.fottersingup h4{
+border-style: solid;
+    border-width: 2px;
+    width: 110px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 12px;
+    margin-bottom: 35px;
 }
